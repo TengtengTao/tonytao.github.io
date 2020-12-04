@@ -739,6 +739,25 @@ plt.show()
 
 ```
 
+### Some reports from former research experiences
+#### During my two and a half years' research experiences, I made report every week. Here is some of my weekly reports.
+
+[Weekly Report 20180911](https://github.com/TengtengTao/tonytao.github.io/blob/gh-pages/report_folder/Weekly%20Report%201.docx)
+
+[Weekly Report 20180924](https://github.com/TengtengTao/tonytao.github.io/blob/gh-pages/report_folder/Weekly%20Report%203.docx)
+
+[Weekly Report 20190714](https://github.com/TengtengTao/tonytao.github.io/blob/gh-pages/report_folder/Weekly%20Report%2020190714.docx)
+
+[Weekly Report 20190819](https://github.com/TengtengTao/tonytao.github.io/blob/gh-pages/report_folder/Weekly%20report%2008192019.docx)
+
+[Weekly Report 20191027](https://github.com/TengtengTao/tonytao.github.io/blob/gh-pages/report_folder/Tengteng%20Tao%20Weekly%20Report%2020191027.pptx)
+
+[Weekly Report 20200209](https://github.com/TengtengTao/tonytao.github.io/blob/gh-pages/report_folder/Tengteng%20Tao%20Weekly%20Report%2020200209.pptx)
+
+[Weekly Report 20200614](https://github.com/TengtengTao/tonytao.github.io/blob/gh-pages/report_folder/Tengteng%20Tao%20Report%2020200614.pptx)
+
+[Weekly Report 20201123](https://github.com/TengtengTao/tonytao.github.io/blob/gh-pages/report_folder/Tengteng%20Tao%20WeeklyReport%2020201123.pptx)
+
 
 
 
