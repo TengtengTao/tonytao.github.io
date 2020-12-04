@@ -16,24 +16,11 @@ For the 2019 MCM, as a team leader, I chose the topic on the distribution of dru
 
 ### Programs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In my several research experiences, I created a lot of programs and models. Here I shared a few codes and programs about data fitting and data analysis I have done during my college. 
 
+#### Codes for transfering data file (txt file) to arrays
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
