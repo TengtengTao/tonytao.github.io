@@ -740,7 +740,8 @@ plt.show()
 ```
 
 ### Some reports from former research experiences
-#### During my two and a half years' research experiences, I made report every week. Here is some of my weekly reports.
+#### During my two and a half years' research experiences, I made report every week. Here is some of my weekly reports. 
+#### Click the link and download the file to see each complete report.
 
 [Weekly Report 20180911](https://github.com/TengtengTao/tonytao.github.io/blob/gh-pages/report_folder/Weekly%20Report%201.docx)
 
